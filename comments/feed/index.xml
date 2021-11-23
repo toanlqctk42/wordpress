@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments for QT Shop	</title>
+	<atom:link href="http://https://github.com/toanlqctk42/wordpress.github.io.git/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>http://https://github.com/toanlqctk42/wordpress.github.io.git</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 23 Nov 2021 13:52:12 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+	<item>
+		<title>
+		Comment on Laptop Lenovo Thinkpad T490 by lequoctoan		</title>
+		<link>http://https://github.com/toanlqctk42/wordpress.github.io.git/product/laptop-lenovo-thinkpad-t490/#comment-2</link>
+
+		<dc:creator><![CDATA[lequoctoan]]></dc:creator>
+		<pubDate>Tue, 23 Nov 2021 13:52:11 +0000</pubDate>
+		<guid isPermaLink="false">http://https://github.com/toanlqctk42/wordpress.github.io.git/?post_type=product&#038;p=114#comment-2</guid>
+
+					<description><![CDATA[abc]]></description>
+			<content:encoded><![CDATA[<p>abc</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>32GB &#8211; QT Shop</title>
+	<atom:link href="http://https://github.com/toanlqctk42/wordpress.github.io.git/product-tag/32gb/feed/" rel="self" type="application/rss+xml" />
+	<link>http://https://github.com/toanlqctk42/wordpress.github.io.git</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Thu, 18 Nov 2021 06:31:45 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+
+<image>
+	<url>http://https://github.com/toanlqctk42/wordpress.github.io.git/wp-content/uploads/2021/11/QT-Vietnam.png</url>
+	<title>32GB &#8211; QT Shop</title>
+	<link>http://https://github.com/toanlqctk42/wordpress.github.io.git</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>USB Doraemon 32GB</title>
+		<link>http://https://github.com/toanlqctk42/wordpress.github.io.git/product/usb-doraemon-32gb/</link>
+					<comments>http://https://github.com/toanlqctk42/wordpress.github.io.git/product/usb-doraemon-32gb/#respond</comments>
+		
+		<dc:creator><![CDATA[lequoctoan]]></dc:creator>
+		<pubDate>Thu, 18 Nov 2021 06:30:03 +0000</pubDate>
+				<guid isPermaLink="false">http://https://github.com/toanlqctk42/wordpress.github.io.git/?post_type=product&#038;p=153</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>http://https://github.com/toanlqctk42/wordpress.github.io.git/product/usb-doraemon-32gb/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>USB 4.0 32GB</title>
+		<link>http://https://github.com/toanlqctk42/wordpress.github.io.git/product/usb-4-0-32gb/</link>
+					<comments>http://https://github.com/toanlqctk42/wordpress.github.io.git/product/usb-4-0-32gb/#respond</comments>
+		
+		<dc:creator><![CDATA[lequoctoan]]></dc:creator>
+		<pubDate>Thu, 18 Nov 2021 06:21:38 +0000</pubDate>
+				<guid isPermaLink="false">http://https://github.com/toanlqctk42/wordpress.github.io.git/?post_type=product&#038;p=151</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>http://https://github.com/toanlqctk42/wordpress.github.io.git/product/usb-4-0-32gb/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
