@@ -1,0 +1,35 @@
+2021-11-24T02:58:20+00:00 CRITICAL Uncaught Error: Failed opening required 'E:\xampp\htdocs\wordpress/wp-admin/includes/admin.php' (include_path='E:\xampp\php\PEAR') in E:\xampp\htdocs\wordpress\wp-content\plugins\simply-static\src\class-ss-archive-creation-job.php:9
+Stack trace:
+#0 E:\xampp\htdocs\wordpress\wp-content\plugins\simply-static\src\class-ss-plugin.php(150): require_once()
+#1 E:\xampp\htdocs\wordpress\wp-content\plugins\simply-static\src\class-ss-plugin.php(81): Simply_Static\Plugin->includes()
+#2 E:\xampp\htdocs\wordpress\wp-content\plugins\simply-static\simply-static.php(50): Simply_Static\Plugin::instance()
+#3 E:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(303): simply_static_run_plugin('')
+#4 E:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 E:\xampp\htdocs\wordpress\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#6 E:\xampp\htdocs\wordpress\wp-settings.php(441): do_action('plugins_loaded')
+#7 E:\xampp\htdocs\wordpress\wp-config.php(96): require_once('E:\\xampp\\htdocs...')
+#8 E:\xampp\htdocs\wordpress\wp-load.php(50): require_once('E:\\xampp\\htdocs...')
+#9 E:\xampp\htdocs\wordpress\wp-admin\admin-ajax.php(22): require_once('E:\\xampp\\htdocs...')
+#10 {main}
+  thrown in E:\xampp\htdocs\wordpress\wp-content\plugins\simply-static\src\class-ss-archive-creation-job.php on line 9
+
+2021-11-24T02:58:20+00:00 CRITICAL Uncaught Error: Class "Requests_IDNAEncoder" not found in E:\xampp\htdocs\wordpress\wp-content\plugins\elementor\core\utils\str.php:20
+Stack trace:
+#0 [internal function]: Elementor\Core\Utils\Str::Elementor\Core\Utils\{closure}(Array)
+#1 E:\xampp\htdocs\wordpress\wp-content\plugins\elementor\core\utils\str.php(19): preg_replace_callback('/(https?:\\/\\/)(...', Object(Closure), 'http://localhos...')
+#2 E:\xampp\htdocs\wordpress\wp-content\plugins\elementor\core\common\modules\connect\apps\base-app.php(253): Elementor\Core\Utils\Str::encode_idn_url('http://localhos...')
+#3 E:\xampp\htdocs\wordpress\wp-content\plugins\elementor\modules\admin-top-bar\module.php(94): Elementor\Core\Common\Modules\Connect\Apps\Base_App->get_admin_url('authorize')
+#4 E:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(303): Elementor\Modules\AdminTopBar\Module->Elementor\Modules\AdminTopBar\{closure}('')
+#5 E:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#6 E:\xampp\htdocs\wordpress\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#7 E:\xampp\htdocs\wordpress\wp-content\plugins\elementor\includes\plugin.php(682): do_action('elementor/init')
+#8 E:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(303): Elementor\Plugin->init('')
+#9 E:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#10 E:\xampp\htdocs\wordpress\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#11 E:\xampp\htdocs\wordpress\wp-settings.php(578): do_action('init')
+#12 E:\xampp\htdocs\wordpress\wp-config.php(96): require_once('E:\\xampp\\htdocs...')
+#13 E:\xampp\htdocs\wordpress\wp-load.php(50): require_once('E:\\xampp\\htdocs...')
+#14 E:\xampp\htdocs\wordpress\wp-admin\admin-ajax.php(22): require_once('E:\\xampp\\htdocs...')
+#15 {main}
+  thrown in E:\xampp\htdocs\wordpress\wp-content\plugins\elementor\core\utils\str.php on line 20
+
